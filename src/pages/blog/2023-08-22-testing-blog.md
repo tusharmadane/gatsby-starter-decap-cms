@@ -7,3 +7,7 @@ featuredpost: true
 featuredimage: /img/chemex.jpg
 ---
 T﻿his is body content o testing blog
+
+```
+Here we can add code 
+```
