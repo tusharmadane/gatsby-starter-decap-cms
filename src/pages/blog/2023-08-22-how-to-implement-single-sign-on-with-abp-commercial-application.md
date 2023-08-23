@@ -13,7 +13,7 @@ featuredimage: /img/implement-single-sign-on-with-abp-commercial-1-.png
 ---
 
 
-```
+```csharp
 import { Component, OnInit } from '@angular/core';
     import { AuthWrapperService } from '@volo/abp.ng.account.core';
     @Component({
