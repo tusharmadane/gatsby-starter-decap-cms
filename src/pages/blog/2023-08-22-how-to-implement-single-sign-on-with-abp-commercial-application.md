@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: How to implement Single Sign-On with ABP commercial application.
+title: "How to implement Single Sign-On with ABP commercial "
 date: 2022-04-22T12:48:26.137Z
 description: "There are lots of reasons for using SSO for custom applications
   owned by the same enterprise organization.  SSO establishes better user
